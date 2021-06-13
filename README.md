@@ -1,7 +1,7 @@
 ### Hello World, i'm SK Tan👋
 
 ### I'm a Front End Mobile and Web Developer!
-- 🔭 I’m currently working on Mobile and Web Front End Development, sometimes doing freelance works @ [SKapps Lab][website].
+- 🔭 I’m currently working on Mobile and Web Front End Development, sometimes doing freelance works.
 - 🌱 On the path to become skillful Full Stack Developer.
 - 👯 I’m looking for collaboration with other mobile & web developers, UI/UX designers, as well as graphic designers for side projects.
 
