@@ -1,18 +1,8 @@
 ### Hello World, i'm SK Tan👋
 
-### I'm a Front End Developer!
-- 🔭 I’m currently working on Mobile and Web Front End Development, sometimes doing freelance works.
+### I'm a Full Stack Developer!
 - 🌱 On the path to become skillful Full Stack Developer.
 - 👯 I’m looking for collaboration with other mobile & web developers, UI/UX designers, as well as graphic designers for side projects.
-
-
-### Get in Touch with me:
-
-[<img align="left" alt="skappslab | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="skappslab | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="skappslab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Most Frequently Used Languages:
 
@@ -26,9 +16,3 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<br />
-
-[twitter]: https://twitter.com/im_sktan
-[instagram]: https://www.instagram.com/im_sktan
-[linkedin]: https://www.linkedin.com/in/sktan810
